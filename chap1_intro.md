@@ -2,7 +2,7 @@
 
 Objectif de ce cours interactif :
 
-- Découvrir JavaScript dans le contexte d'une page Web afin de découvrir le DOM, les événements et quelques notions importantes du langage : définition de variables, première approche, boucle, type des données et gestion des chaînes de caractères.
+- Découvrir JavaScript dans le contexte d'une page Web afin de découvrir le DOM, les événements et quelques notions importantes du langage : définition de variables (première approche), boucle, type des données et gestion des chaînes de caractères.
 
 On dit JS pour dire JavaScript. 
 

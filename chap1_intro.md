@@ -35,7 +35,15 @@ Avec JavaScript on peut
 
 Nous allons faire 3 exercices pour découvrir JS.
 
-Si vous avez Git d'installer sur votre machine cloner ce dépôt dans votre serveur localhost.
+Si vous avez Git d'installer sur votre machine cloner ce dépôt dans le dossier de votre serveur :
+
+```bash
+git clone https://github.com/Antoine07/oclock-live-coding.git live
+```
+
+Vous devriez avoir un dossier live dans lequel vous trouverez l'ensemble des fichiers par dossier pour suivre chacun des exercices.
+
+Si vous avez Git d'installer sur votre machine cloner ce dépôt dans le dossier de votre serveur :
 
 Nous allons faire 3 exercices pour découvrir quelques notions JS.
 
